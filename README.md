@@ -1,7 +1,7 @@
 <h1 align="center">Application-of-Convolutional-AutoEncoders</h1>
 <a href="#">
   <div align="center">
-    <img src="header.png" width='700' height='200'/>
+    <img src="header.png" width='700'/>
   </div>
 </a>
 
@@ -20,25 +20,26 @@
 </a>
 
 ## Visualizing Reconstruction Process
-<img src="animation.gif" width="40" height="40" />
+<center><img src="animation.gif" width="100" height="100" /></center>
 
 ## Run it now
 
-<a href="https://colab.research.google.com/drive/16CpcQR8YaGa4MtryfDsVEQqAFJFKcxKa" target="_parent">
+<a href="https://colab.research.google.com/drive/1QLqzYCQ46aEXjtxNWyd7GxS03sRG3DAu" target="_parent">
     <img src="https://colab.research.google.com/assets/colab-badge.svg"/>
 </a>
 
 ## Running Locally
 1.Installing requirements and dependencies
 ```
-git clone https://github.com/saadhaxxan/Visualizing-Class-Activation-Maps-for-CNN.git
-cd Visualizing-Class-Activation-Maps-for-CNN
+git clone https://github.com/saadhaxxan/Application-of-Convolutional-AutoEncoders.git
+cd Application-of-Convolutional-AutoEncoders
 pip install -r requirements.txt
 ```
 2.Running the Script
 ```
-python class_activation_maps_resnet50.py
+python applications_of_autoencoders.py
 ```
+
 ## Author
 You can get in touch with me on my LinkedIn Profile:
 
