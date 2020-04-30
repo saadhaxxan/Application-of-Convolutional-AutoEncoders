@@ -20,8 +20,9 @@
 </a>
 
 ## Visualizing Reconstruction Process
-<center><img src="animation.gif" width="100" height="100" /></center>
-
+<div align="center">
+<img src="animation.gif" width="300" height="300" />
+</div>
 ## Run it now
 
 <a href="https://colab.research.google.com/drive/1QLqzYCQ46aEXjtxNWyd7GxS03sRG3DAu" target="_parent">
