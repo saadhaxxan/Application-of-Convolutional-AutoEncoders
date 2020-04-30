@@ -1,9 +1,10 @@
 <h1 align="center">Application-of-Convolutional-AutoEncoders</h1>
 <a href="#">
   <div align="center">
-    <img src="header.png" width='700'/>
+    <img src="header.png" width='700' height='200'/>
   </div>
-</a> 
+</a>
+
 ## Image Denoising with Deep Convolutional AutoEncoder
 <a href="#">
   <div align="center">
