@@ -14,11 +14,12 @@
 ## Image Reconstruction with Deep AutoEncoder
 <a href="#">
   <div align="center">
-    <img src="denoising.png" width='700'/>
+    <img src="reconstruct.png" width='700'/>
   </div>
 </a>
+
 ## Visualizing Reconstruction Process
-![](animation.gif)
+<img src="animation.gif" width="40" height="40" />
 
 ## Run it now
 
